@@ -66,5 +66,9 @@ Bu repo BELTEK Python ile Veri Bilimi kursunun kodlarını ve notlarını kaydet
 
   - Ekrana girilen kelimenin büyük ünlü uyumuna uyup uymadığını kontrol eden program
 
+8. **ders_25042022:**
++ Tuple, set, dictionary kullanımı ve bunlarda en çok kullanılan işlemler (del,count,sort vb)
++ Tuple, set, dictionary işlemleri ile örnek soru çözümleri
+
 
 
